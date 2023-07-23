@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Road Damage</string>
+    <string name="greet1">Welcome,</string>
+    <string name="desc">Experience seamless access and instant sign-in at just one click</string>
+
+    <string name="sub1">Stay informed with the latest road news and drop your comments to our server</string>
+
+    <string name="info1">Ammar Zuhdi</string>
+    <string name="info2">2022905771</string>
+
+    <string name="info3">Syahimi Faiq</string>
+    <string name="info4">2022907825</string>
+
+    <string name="info5">Musa Mustaqim</string>
+    <string name="info6">2022794013</string>
+
+    <string name="info7">Nurul Syafiqah</string>
+    <string name="info8">2022772317</string>
+
+    <string name="info9">Nur Aqilah</string>
+    <string name="info10">2022923355</string>
+
+    <string name="abt">Explore More at ........</string>
+    <string name="copyright">Copyright (c) 2023 e-JKR ICT602 Group Project</string>
+
+</resources>
